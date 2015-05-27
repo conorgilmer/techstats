@@ -19,11 +19,11 @@
 
       // Instantiate and draw our chart, passing in some options.
       var pie_chart = new google.visualization.PieChart(document.getElementById('chart_div_pie'));
-      pie_chart.draw(data, {title: 'Opinion Poll - Pie Chart', width: 500, height: 340});
+      pie_chart.draw(data, {title: 'Browsers usage - Pie Chart', width: 500, height: 340});
 
 // Instantiate and draw our chart, passing in some options.
       var bar_chart = new google.visualization.BarChart(document.getElementById('chart_div_bar'));
-      bar_chart.draw(data, {title: 'Opinion Poll - Bar Chart', bars: 'horizontal',  width: 500, height: 340, legend: { position: 'none' },});
+      bar_chart.draw(data, {title: 'Browsers usage - Bar Chart', bars: 'horizontal',  width: 500, height: 340, legend: { position: 'none' },});
     }
 
     </script>
