@@ -21,7 +21,7 @@
         <div class="col-lg-4">
           <h2>Software</h2>
           <p>Plotting the s/w I use, editors, browsers, operating systems</p>
-          <p><a class="btn btn-primary" href="polls.php" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-primary" href="sw.php" role="button">View details &raquo;</a></p>
         </div>
 
         <div class="col-lg-4">
